@@ -1,0 +1,20 @@
+{
+  "name": "share-archive",
+  "version": "0.0.0",
+  "description": "share-archive",
+  "main": "index.js",
+  "dependencies": {
+    "@elastic/scrollsearch": "^1.0.0-beta2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blahah/share-archive.git"
+  },
+  "author": "Rik Smith-Unna (@blahah)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/blahah/share-archive/issues"
+  },
+  "homepage": "https://github.com/blahah/share-archive"
+}
